@@ -1,0 +1,16 @@
+Atlassian Interview QUestions Link: https://github.com/snehasishroy/leetcode-companywise-interview-questions/blob/master/atlassian.csv
+
+Snake Game: https://www.geeksforgeeks.org/design-snake-game/
+
+Find K-closest elements: https://leetcode.com/problems/find-k-closest-elements/description/
+
+All O'one Data Structure: https://leetcode.com/problems/all-oone-data-structure/description/
+
+Designing a Rate Limiter Explaination: https://www.geeksforgeeks.org/how-to-design-a-rate-limiter-api-learn-system-design/
+
+Web Crawler Design Description: https://jc1175.medium.com/how-i-would-design-a-web-crawler-9013251fa9f3
+OR
+https://www.geeksforgeeks.org/design-web-crawler-system-design/
+
+Union Find: https://www.geeksforgeeks.org/connecting-employees-from-different-companies/?utm_source=chatgpt.com
+
